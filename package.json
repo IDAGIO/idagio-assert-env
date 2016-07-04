@@ -1,0 +1,22 @@
+{
+  "name": "@idagio/assert-env",
+  "version": "1.0.0",
+  "description": "Utility function for asserting node-env variables have a non null value before server startup",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDAGIO/idagio-assert-env.git"
+  },
+  "keywords": [
+    "assert",
+    "env",
+    "node",
+    "express"
+  ],
+  "author": "IDAGIO GmbH (https://www.idagio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDAGIO/idagio-assert-env/issues"
+  },
+  "homepage": "https://github.com/IDAGIO/idagio-assert-env#readme"
+}
